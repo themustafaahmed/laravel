@@ -1,0 +1,10 @@
+Solo Project Requirements
+ONE TO MANY, MANY TO MANY
+Filters, RequestFormValidation
+1 Page CRUD ( Single Page App)
+ADMIN - USER 
+Service Layer || Repository Layer 
+1 Event 1 Listener
+1 Command
+Email API 
+1 External Laravel Package
